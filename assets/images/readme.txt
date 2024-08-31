@@ -1,0 +1,15 @@
+Lista de nomes de arquivos
+- logo1
+- logo2
+- prefeito-01
+- prefeito-02
+- prefeito-03
+- prefeito-04
+- prefeito-05
+- prefeito-06
+- prefeito-vice-01
+- prefeito-vice-02
+- prefeito-vice-03
+- prefeito-vice-04
+- vice-01
+- vice-02

@@ -1,0 +1,17 @@
+{
+    "name": "Fábio Moura 45",
+    "short_name": "Fábio Moura 45",
+    "icons": [
+        {
+            "src": "./assets/images/favicon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable" 
+        }
+    ],
+    "theme_color": "#FFFFFF",
+    "backgroun_color": "#FFFFFF",
+    "start_url": "/preffabiomoura/",
+    "display": "standalone",
+    "orentation": "portrait"
+}
